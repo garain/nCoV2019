@@ -1,4 +1,4 @@
-# nCoV2019
+# nCoV2019 [![HitCount](http://hits.dwyl.com/garain/nCoV2019.svg)](http://hits.dwyl.com/garain/nCoV2019)
 Location for summaries and analyses of data related to n-CoV 2019, first reported in Wuhan, China.
 
 # Acknowledgements
